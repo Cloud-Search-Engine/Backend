@@ -1,0 +1,6 @@
+.git
+**/*_test.go
+README.md
+migrations/
+data/
+scripts/

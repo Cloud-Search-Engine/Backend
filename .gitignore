@@ -1,0 +1,26 @@
+# Binaries / build
+bin/
+dist/
+*.exe
+*.test
+*.out
+coverage.out
+coverage.html
+
+# Go
+vendor/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local scratch
+tmp/
+*.log
